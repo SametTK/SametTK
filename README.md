@@ -6,14 +6,9 @@ I'm Samet from Austria, and I do content on Design and Development. In addition 
 
 Skills: C# / JS / HTML / CSS
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SametTK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TemasAbi)  
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samettk)](https://github.com/SametTK/github-readme-stats)
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SametTK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TemasAbi) 
 
 
